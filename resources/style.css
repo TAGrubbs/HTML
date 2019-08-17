@@ -10,8 +10,9 @@
     float: left; 
     margin : 5px;
 
-}
-
-.text {
-    float: right;
+.panel-body {
+    /* width: 99vw; */
+    /* position: relative; */
+    width:100%;
+    overflow: auto;
 }
